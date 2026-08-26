@@ -1,8 +1,6 @@
 # AndroidThemeChangerShell
 getting the mode or changing theme to light/dark
-
-
-
+<!-->
 ## getting:
 prints yes/no/auto
 ## dark:
